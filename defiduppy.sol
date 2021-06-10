@@ -1,10 +1,18 @@
 
  
-   Defi Duppy is a fully decentralized, peer-to-peer digital currency, owned in whole and governed by its community with instant rewards for holders.
+   •Defi Duppy is a fully decentralized, peer-to-peer digital currency, owned in whole and governed by its community with instant rewards for holders.
+   
+•Smart Contract Digital Investment
 
-Features:
-• 5% fee to add liquidity
-• 5% fee distribute all holders
+•Start
+•June 7, 2021 (12:00AM GMT)
+
+•Features:
+• Total Supply 1,000,000,000,000,000
+• Token has been burnt 500,000,000,000,000(50%)
+•Transaction fee 5% tax on every transaction
+• Distributed to holders : 5% distributed to all holders proportional to the amount of all held
+• Automatic LP : 5% is locked in liquidity
 
  */
 
