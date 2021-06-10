@@ -1,12 +1,4 @@
-/**
- *Submitted for verification at BscScan.com on 2021-06-07
-*/
 
-/**
- *Submitted for verification at BscScan.com on 2021-06-03
-*/
-
-/**
  
    Defi Duppy is a fully decentralized, peer-to-peer digital currency, owned in whole and governed by its community with instant rewards for holders.
 
