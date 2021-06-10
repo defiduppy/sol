@@ -8,11 +8,15 @@
 •June 7, 2021 (12:00AM GMT)
 
 •Features:
+• 100% Community owned safe project
+• Renounced contract To 0x0000000000000000000000000000000000000000 address
 • Total Supply 1,000,000,000,000,000
 • Token has been burnt 500,000,000,000,000(50%)
 •Transaction fee 5% tax on every transaction
 • Distributed to holders : 5% distributed to all holders proportional to the amount of all held
 • Automatic LP : 5% is locked in liquidity
+
+
 
  */
 
